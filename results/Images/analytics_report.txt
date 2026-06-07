@@ -1,0 +1,10 @@
+===== TRAFFIC ANALYTICS REPORT =====
+
+Average Vehicles : 12.62
+Maximum Vehicles : 32
+Minimum Vehicles : 3
+
+Density Distribution
+LOW: 58.41%
+MEDIUM: 41.00%
+HIGH: 0.58%
